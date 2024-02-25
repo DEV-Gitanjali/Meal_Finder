@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background: #2d2013;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+}
+
+.container{
+    margin: auto;
+    display: flex;
+    max-width: 800px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
